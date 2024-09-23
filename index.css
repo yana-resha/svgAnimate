@@ -1,0 +1,9 @@
+svg {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+circle {
+    transition: fill 1s;
+}
